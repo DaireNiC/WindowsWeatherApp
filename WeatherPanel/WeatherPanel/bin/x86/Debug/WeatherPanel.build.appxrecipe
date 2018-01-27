@@ -334,8 +334,8 @@
     <AppxPackagedFile Include="C:\Users\User\.nuget\packages\System.Xml.XmlSerializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\Desktop\windows_app\WindowsWeatherApp\WeatherPanel\WeatherPanel\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\windows_app\WindowsWeatherApp\WeatherPanel\WeatherPanel\Assets\partially-cloudy.png">
+      <PackagePath>Assets\partially-cloudy.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\Desktop\windows_app\WindowsWeatherApp\WeatherPanel\WeatherPanel\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -363,6 +363,9 @@
     <AppxPackagedFile Include="C:\Users\User\Desktop\windows_app\WindowsWeatherApp\WeatherPanel\WeatherPanel\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\windows_app\WindowsWeatherApp\WeatherPanel\WeatherPanel\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\Desktop\windows_app\WindowsWeatherApp\WeatherPanel\WeatherPanel\bin\x86\Debug\WeatherPanel.xr.xml">
       <PackagePath>WeatherPanel.xr.xml</PackagePath>
